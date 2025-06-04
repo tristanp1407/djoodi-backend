@@ -1,0 +1,3 @@
+node_modules/
+certs/*.pem
+passTemplate/loyalty.pass/*.png
